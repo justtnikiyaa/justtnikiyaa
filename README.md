@@ -20,7 +20,7 @@ I am a passionate <b>IT Undergraduate at SLIIT</b> specializing in <b>Full-Stack
 </p>
 
 
-- 🎓 **Education**: BSc (Hons.) in Information Technology at **SLIIT** (2023 – Present)
+- 🎓 **Education**: - **BSc (Hons.) in Information Technology** — *Sri Lanka Institute of Information Technology (SLIIT)* (Oct 2023 – Present)
 - 💼 **Industry Experience**: 
   - **Junior IT Executive** at *The Fashion Store (TFS)*
   - **IT Intern** at *Road Development Authority (RDA)*
