@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=justtnikiyaa&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/justtnikiyaa)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=justtnikiyaa.justtnikiyaa)
 ![Forks](https://img.shields.io/github/forks/justtnikiyaa/family_budget_app?label=Forks&style=social)
 ![Stars](https://img.shields.io/github/stars/justtnikiyaa/family_budget_app?style=social)
 
@@ -47,10 +47,6 @@ I am a passionate IT Undergraduate interested in Mobile Application Development,
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justtnikiyaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nihindu's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtnikiyaa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justtnikiyaa&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=justtnikiyaa&show_icons=true&theme=tokyonight" alt="Nihindu's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=justtnikiyaa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
