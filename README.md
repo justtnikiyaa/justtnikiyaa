@@ -8,9 +8,9 @@
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8555&center=true&vCenter=true&width=450&lines=Hey+I'm+Nihindu+Dulavin;Full-Stack+%26+Mobile+App+Developer;SLIIT+IT+Undergraduate;Building+Scalable+Modern+Systems!)](https://git.io/typing-svg)
 
-<!-- Owl celebration sticker -->
+<!-- Boy coding with laptop sticker -->
 <div>
-  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Celebration Owl"/>
+  <img align="right" width="32%" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Boy coding with laptop" />
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M NIHINDU DULAVIN
@@ -128,5 +128,5 @@ I am a passionate <b>IT Undergraduate at SLIIT</b> specializing in <b>Full-Stack
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by <b>Nihindu Dulavin</b> • Built with modern GitHub Readme Standards</sub>
+  <sub>Designed by <b>Nihindu Dulavin</b> • Built with modern GitHub Readme Standards</sub>
 </div>
