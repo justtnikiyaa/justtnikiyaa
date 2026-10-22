@@ -8,18 +8,17 @@
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8555&center=true&vCenter=true&width=450&lines=Hey+I'm+Nihindu+Dulavin;Full-Stack+%26+Mobile+App+Developer;SLIIT+IT+Undergraduate;Building+Scalable+Modern+Systems!)](https://git.io/typing-svg)
 
-<!-- Boy coding with laptop sticker -->
-<div>
-  <img align="right" width="32%" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Boy coding with laptop" />
-</div>
-
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M NIHINDU DULAVIN
 *Software Engineer | Full-Stack & Mobile Application Developer*
 <br />
 
+<!-- Boy coding with laptop sticker (නමට යටින්) -->
+<img align="right" width="32%" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Boy coding with laptop" />
+
 <p align="left">
 I am a passionate <b>IT Undergraduate at SLIIT</b> specializing in <b>Full-Stack Software Engineering, Mobile Application Development (Flutter / Android), and Cloud-Connected Systems</b>. Experienced in architecting end-to-end web platforms, real-time reactive applications, enterprise POS & SQL database deployments, and intuitive UI/UX experiences.
 </p>
+
 
 - 🎓 **Education**: BSc (Hons.) in Information Technology at **SLIIT** (2023 – Present)
 - 💼 **Industry Experience**: 
