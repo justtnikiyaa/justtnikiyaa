@@ -13,7 +13,7 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M NIHINDU DULAVIN
-*Software Engineer & Mobile Application Developer*
+*Software Engineer & Web/Mobile Application Developer*
 <br />
 
 <p align="left">
