@@ -96,10 +96,6 @@ I am a passionate <b>IT Undergraduate at SLIIT</b> specializing in <b>Full-Stack
 
 ---
 
-#### 🎓 Education
-- **BSc (Hons.) in Information Technology** — *Sri Lanka Institute of Information Technology (SLIIT)* (Oct 2023 – Oct 2027)
-  - Focused on Software Engineering, Mobile App Development, Distributed Systems, Database Architecture, and Agile Methodologies.
-
 ### 📬 Connect With Me
 
 <div align="center">
