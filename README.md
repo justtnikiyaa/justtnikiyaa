@@ -22,7 +22,7 @@ I am a passionate <b>IT Undergraduate at SLIIT</b> specializing in <b>Full-Stack
 
 - 🎓 **Education**: BSc (Hons.) in Information Technology at **SLIIT** (2023 – Present)
 - 💼 **Industry Experience**: 
-  - **IT Support & POS Systems Associate** at *The Fashion Store (TFS)*
+  - **Junior IT Executive** at *The Fashion Store (TFS)*
   - **IT Intern** at *Road Development Authority (RDA)*
   - **Frontend Developer Intern** at *Sri Lanka Telecom (SLT)*
 - 📱 **Mobile Specialization**: Flutter, Dart, Firebase, Android SDK, Native Widgets
@@ -96,22 +96,9 @@ I am a passionate <b>IT Undergraduate at SLIIT</b> specializing in <b>Full-Stack
 
 ---
 
-### 💼 Professional Experience & Education
-
 #### 🎓 Education
 - **BSc (Hons.) in Information Technology** — *Sri Lanka Institute of Information Technology (SLIIT)* (Oct 2023 – Oct 2027)
   - Focused on Software Engineering, Mobile App Development, Distributed Systems, Database Architecture, and Agile Methodologies.
-
-#### 🏢 Experience
-- **IT Support & POS Systems Associate** — *The Fashion Store (TFS)* `07th Sep 2026 – Present`
-  - Configuring, deploying, and maintaining 40+ POS laptop workstations, barcode scanners, and thermal receipt printers for multi-branch retail operations.
-  - Managing large-scale stock take workflows using Sphere POS with central Microsoft Azure SQL database synchronization and TCP/IP networking.
-- **IT Intern** — *Road Development Authority (RDA)* `Jul 2026 – Sep 2026`
-  - Engineered internal Letter Management System & Web-Based Tax Invoice System with backend search queries and custom file viewing.
-- **Frontend Developer Intern** — *Sri Lanka Telecom (SLT)* `May – Nov (6 Months)`
-  - Developed responsive enterprise web interfaces using React.js; integrated REST APIs, performed OWASP ZAP security testing, and SonarQube code quality audits.
-
----
 
 ### 📬 Connect With Me
 
