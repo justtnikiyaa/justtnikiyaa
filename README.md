@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/justtnikiyaa/family_budget_app?style=social)](https://github.com/justtnikiyaa/family_budget_app/stargazers)
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8555&center=true&vCenter=true&width=450&lines=Hey+I'm+Nihindu+Dulavin;Full-Stack+%26+Mobile+App+Developer;SLIIT+IT+Undergraduate;Building+Scalable+Modern+Systems!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8555&center=true&vCenter=true&width=450&lines=Hey+I'm+Nihindu+Dulavin;Full-Stack+%26+Web/Mobile+App+Developer;SLIIT+IT+Undergraduate;Building+Scalable+Modern+Systems!)](https://git.io/typing-svg)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M NIHINDU DULAVIN
 *Software Engineer | Full-Stack & Mobile Application Developer*
